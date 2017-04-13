@@ -1,0 +1,29 @@
+ body {
+    background-image: url("/home/quirky/biyanker's work/dc.jpg");
+    background-size: 1550px;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+
+}
+
+p {
+    font-family: verdana;
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+li{
+    display: inline;
+}
+
+#gallery{
+
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
